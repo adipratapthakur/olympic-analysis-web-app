@@ -1,1 +1,1 @@
-# olympic-analysis-web-app
+# Olympic-Analysis-Web-App
